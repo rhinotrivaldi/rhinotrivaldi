@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhinotrivaldi
 - 👀 I’m interested in Fullstack Development; Such as Web App and Mobile App
-- 🌱 I’m currently learning PHP (Laravel); Javascript; Python; Kotlin
+- 🌱 I’m currently learning PHP (Laravel); Javascript; Python; Flutter
 - 💞️ I’m looking to collaborate on Research (maybe)
 - 📫 How to reach me on Instagram (@rhinotrivaldi)
 
