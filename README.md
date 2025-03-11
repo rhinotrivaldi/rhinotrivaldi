@@ -2,6 +2,10 @@
 
 Hi there! I'm **Rhino Trivaldi**, a passionate Fullstack Developer, IoT Engineer, and Tech Enthusiast. I love building web & mobile applications, working with IoT systems, and designing PCBs for embedded systems. Let's connect and build something awesome together! 💡✨
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Tools:
